@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "6"
+script: npm test
+after_success:
+  - npm run coveralls
+  - npm run codeclimate
+addons:
+  code_climate:
+    repo_token: e7d8203f8ab4f5d63c3426141d89fb1ac76aa4d80b445c4cc3c932452cf17e4e
