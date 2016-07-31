@@ -11,6 +11,5 @@ Install
 
 ```
 npm install ringohub/hubot-aws-charge
+$(npm bin)/hubot-aws-charge install
 ```
-
-After that, add `"hubot-aws-charge"` into the `external-script.json`.
