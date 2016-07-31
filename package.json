@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Post to chatroom AWS-charges per 4 hours",
   "main": "scriptsgi/aws-charge.js",
-  "bin": "install-external-script.js",
+  "bin": "lib/external-script.js",
   "scripts": {
     "start": "coffee --nodejs --debug $(npm bin)/hubot -a shell -n bot",
     "test": "istanbul cover _mocha",
