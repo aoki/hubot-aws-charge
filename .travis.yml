@@ -7,4 +7,5 @@ after_success:
   - npm run codeclimate
 addons:
   code_climate:
-    repo_token: e7d8203f8ab4f5d63c3426141d89fb1ac76aa4d80b445c4cc3c932452cf17e4e
+    repo_token: fd80fc73d74686d2404e0955b3a3ddcae5b5c88ffc210da4d505851cb69eb4b0
+
