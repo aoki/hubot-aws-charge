@@ -1,11 +1,11 @@
 language: node_js
 node_js:
-  - "6"
+- '6'
 script: npm test
 after_success:
-  - npm run coveralls
-  - npm run codeclimate
+- npm run coveralls
+- npm run codeclimate
 addons:
   code_climate:
-    repo_token: fd80fc73d74686d2404e0955b3a3ddcae5b5c88ffc210da4d505851cb69eb4b0
-
+    repo_token:
+      secure: LhOCX0PnJ4oDzCy31MVbCWusbbNJwfhjuEd4KHE3md1AN6k9Ui9cnQewmlR5OAQ5DBbqUkD5m5jpO7reHGGVPqqnJNcrgjLH74uGlfw6hvsY4se5DR48PSgs2A4Tasi65heiyJqQGljblELpgpKvhqkhqiqNj2/VvF26RRP6Sjkt/21rT+1i/U0kMjTncov2doMgGyZ12xkfnknY5kKMSxv1LumKXopBYth6ljwhopQ3oUFmNR0MN/4xOIBNnnLPEmJs8/O120zrMQiz8PPGs3gb6T2H5Jhxnszb5opmXsmYM3cOBAsPcDxYlI9FzQdcLrs6HCyNzg8wQ7rQfSL5q3R/vjQnX3nsrXG4NosHw9fg0WWRyAmim98g2zfDDGfKc+uYYnSgqOfM1k9L/sMq8D+zmQSQzWzBpJ34b5TwwHoAOyvqwe+z9yKseZZKTWBhLU1MJPVyzH9dMJkb6WWziJTA0M7Azve8d0hIsvXjOsklVEsAP0/Ago6IxxIs+M0DowYhOFzW+TqZ7idvBcCDqJQ/lktmeWmW9tLASRCDyzrsJ5YQ1RiJeYhpqHGVG1H5yIhBt8ET27vGKCzVOuocgRwS2sA8YLARUTOEzQhuczvg8cV3SBCF6/P0IPms0DAEqAeAUpG1RtCTfZAVycjmhutECuvbrvQ7yauXZhv2Kfo=
