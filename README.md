@@ -1,6 +1,8 @@
 hubot-aws-charge
 ================================================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ringohub/hubot-aws-charge.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/ringohub/hubot-aws-charge.svg?branch=master)](https://travis-ci.org/ringohub/hubot-aws-charge)
 [![Coverage Status](https://coveralls.io/repos/github/ringohub/hubot-aws-charge/badge.svg?branch=master)](https://coveralls.io/github/ringohub/hubot-aws-charge?branch=master)
 [![Code Climate](https://codeclimate.com/github/ringohub/hubot-aws-charge/badges/gpa.svg)](https://codeclimate.com/github/ringohub/hubot-aws-charge)
