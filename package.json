@@ -26,18 +26,18 @@
   },
   "homepage": "https://github.com/ringohub/hubot-aws-charge#readme",
   "dependencies": {
-    "aws-sdk": "2.4.11",
-    "cron": "1.1.0",
+    "aws-sdk": "2.9.0",
+    "cron": "1.2.1",
     "date-utils": "1.2.21"
   },
   "devDependencies": {
-    "codeclimate-test-reporter": "0.3.3",
-    "coffee-script": "1.10.0",
-    "eslint": "3.2.0",
+    "codeclimate-test-reporter": "0.4.0",
+    "coffee-script": "1.12.3",
+    "eslint": "3.14.1",
     "hubot": "2.19.0",
-    "istanbul": "0.4.4",
+    "istanbul": "0.4.5",
     "istanbul-coveralls": "1.0.3",
-    "mocha": "2.5.3",
-    "power-assert": "1.4.1"
+    "mocha": "3.2.0",
+    "power-assert": "1.4.2"
   }
 }
